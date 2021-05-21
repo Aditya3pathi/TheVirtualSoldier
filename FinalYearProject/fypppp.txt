@@ -1,0 +1,1 @@
+ python test_anomaly_video_detector.py --model alexcrue_anomaly.model -i V_100.mp4  
